@@ -1,5 +1,5 @@
 Laporan Praktikum Analisis Data
-Kelompok: Davin Maulana Al Fathir & Mochamad Novanda Vianizar
+Kelompok: Ahmad Fikri Fauzan & Adiyatma Pramtama Teguh
 
 Kelas: XI RPL 8
 
